@@ -1,6 +1,4 @@
-No existing README file was found in the repository `angular-chat-app-websocket-backEnd`. Here is a new README file for your repository:
 
-```markdown
 # Angular Chat App Backend
 
 This project is the backend part of a Chat Application built using Angular and WebSockets.
